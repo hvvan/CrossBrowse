@@ -1,0 +1,20 @@
+{
+  "instruction": {
+    "en": "In your response, first give each value asked about on a Facts line, in the order asked, separated by '; '. If you cannot find a value, write I don't know in its place. Then give the final answer on the Exact Answer line.",
+    "es": "En su respuesta, escriba primero cada valor por el que se pregunta en la línea Facts, en el orden en que se preguntan, separados por '; '. Si no puede encontrar un valor, escriba I don't know en su lugar. Después, escriba la respuesta final en la línea Exact Answer.",
+    "ja": "回答では、まず問題で問われている各値を、問題に記載された順序で、Facts行に'; 'で区切って記入しなさい。見つけられない値はその箇所に I don't know と記入しなさい。その後、Exact Answer行に最終的な答えを記入しなさい。",
+    "ko": "답할 때는 먼저 Facts 줄에 문항에서 묻는 값들을 문항에 나온 순서대로 '; '로 구분해 적으시오. 찾지 못한 값은 그 자리에 I don't know라고 적으시오. 그다음 Exact Answer 줄에 최종 답을 적으시오.",
+    "hi": "अपने उत्तर में पहले प्रश्न में पूछे गए प्रत्येक मान को प्रश्न में दिए गए क्रम में Facts पंक्ति पर '; ' से अलग करके लिखें। जो मान न मिले, उसके स्थान पर I don't know लिखें। फिर Exact Answer पंक्ति पर अंतिम उत्तर लिखें।",
+    "ka": "პასუხში ჯერ კითხვაში მოთხოვნილი თითოეული მნიშვნელობა კითხვის თანმიმდევრობის მიხედვით Facts ხაზზე ჩაწერეთ და გამოყავით '; '-ით. თუ მნიშვნელობას ვერ იპოვით, მის ადგილას ჩაწერეთ I don't know. შემდეგ კი Exact Answer ხაზზე ჩაწერეთ საბოლოო პასუხი.",
+    "ne": "उत्तर दिँदा पहिले प्रश्नमा सोधिएका प्रत्येक मानलाई प्रश्नमा सोधिएको क्रमअनुसार Facts लाइनमा '; ' ले छुट्याएर लेख्नुहोस्। कुनै मान फेला पार्न नसक्नुभएमा त्यसको ठाउँमा I don't know लेख्नुहोस्। त्यसपछि Exact Answer लाइनमा अन्तिम उत्तर लेख्नुहोस्।"
+  },
+  "separator": {
+    "en": " ",
+    "es": " ",
+    "ja": "",
+    "ko": " ",
+    "hi": " ",
+    "ka": " ",
+    "ne": " "
+  }
+}
